@@ -45,18 +45,12 @@ FlightFinder is built with a range of technologies to provide a robust and respo
 
 ## Roadmap
 
-Our plans for FlightFinder include the following improvements:
+My plans for FlightFinder include the following improvements:
 
 - Enhancing the user interface for better usability
 - Expanding the database of available flights
 - Implementing advanced search options and filters
 - Offering flight booking functionality
-- Providing accessibility features for all users
 
-## 🌟 About Us
-
-We are a team of passionate developers dedicated to creating user-friendly applications that make life easier. Our focus is on delivering efficient and reliable solutions for various travel needs.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🚀 About Me
+I'm a former medical professional who transitioned into a software developer role. I bring analytical and problem-solving skills to the table. Proficient in Angular, React, and Cypress, with familiarity in Node.js and Electron. Fluent in English and currently learning German. Committed to continuous learning and teamwork.
