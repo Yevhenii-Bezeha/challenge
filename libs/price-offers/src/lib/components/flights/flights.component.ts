@@ -6,6 +6,7 @@ import {
 } from '@angular/core';
 import type { OnInit, WritableSignal } from '@angular/core';
 import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { PageEvent } from '@angular/material/paginator';
@@ -40,11 +41,13 @@ import { FlightsListComponent } from '../flights-list/flights-list.component';
         PaginatorComponent,
         MatProgressSpinnerModule,
         NgIf,
-        AsyncPipe
+        AsyncPipe,
+        MatCardModule
     ]
 })
 export class FlightsComponent implements OnInit {
     isLoading: WritableSignal<boolean> = signal(true);
+    isAllFlightsVisible: WritableSignal<boolean> = signal(true);
 
     currentFilter: WritableSignal<FilterOptions> = signal(
         FilterOptions.DepartureAirport
@@ -60,6 +63,7 @@ export class FlightsComponent implements OnInit {
     flightsSelected$: Observable<IPriceOffers[]> =
         this.priceOffersServiceMock.selectedFlightOption$.pipe(
             tap(() => this.isLoading.set(true)),
+            tap(() => this.isAllFlightsVisible.set(false)),
             switchMap(selectedFlightOptionData =>
                 this.getSelectedFlights(selectedFlightOptionData)),
             delay(1000),
@@ -99,6 +103,15 @@ export class FlightsComponent implements OnInit {
                     })
                 ))
         );
+    }
+
+    onBackClick():void {
+        this.isLoading.set(true);
+
+        setTimeout(() => {
+            this.isAllFlightsVisible.set(true);
+            this.isLoading.set(false);
+        }, 1000);
     }
 
     selectFilter(value: FilterOptions): void {

@@ -10,7 +10,8 @@ Experience FlightFinder live on our [website](https://yevhenii-bezeha.github.io/
 
 ## Features
 
-- **Up-to-Date Data**: FlightFinder integrates with real-time flight data to ensure you have the latest information.
+- **Accessible to All**: FlightFinder is designed to be accessible to users of all abilities. You can navigate the site using only your keyboard, making it a great choice for those who rely on keyboard navigation.
+- **Screen Reader Friendly**: We've taken extra care to ensure that FlightFinder is screen reader friendly, providing an inclusive experience for visually impaired users.
 - **User-Friendly Pagination**: Enjoy a seamless experience with paginated flight listings.
 - **Price Sorting**: Sort flight options by price to find the best deals.
 - **Flight Details**: Access detailed information about each flight, including departure and return dates, seat availability, price, and more.

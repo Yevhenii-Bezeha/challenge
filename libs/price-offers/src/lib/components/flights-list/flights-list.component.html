@@ -1,7 +1,7 @@
 <h1 class="title">Choose your departure flight</h1>
 
 <ng-container *ngFor="let flight of flights">
-  <mat-card cy-data="Flight-List-Card">
+  <mat-card cy-data="Flight-List-Card" data-message="Flight" tabindex="0">
     <mat-card-header>
       <mat-card-subtitle>
         <span class="list-subtitle-text">
@@ -26,7 +26,7 @@
 <h1 class="title">Choose your return flight</h1>
 
 <ng-container *ngFor="let flight of flights">
-  <mat-card cy-data="Flight-List-Card">
+  <mat-card cy-data="Flight-List-Card" data-message="Flight" tabindex="0">
     <mat-card-header>
       <mat-card-subtitle>
         <span class="list-subtitle-text">

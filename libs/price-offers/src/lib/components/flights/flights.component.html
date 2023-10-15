@@ -1,49 +1,69 @@
-<div class="spinner">
+<div class="loader">
   <mat-spinner *ngIf="isLoading()"></mat-spinner>
 </div>
 
-<ng-container
-  *ngIf="flightsSelected$ | async as flightsSelected; else allFlights"
->
-  <ng-container *ngIf="!isLoading()">
-    <button [matMenuTriggerFor]="menu" mat-fab extended color="accent">
+<ng-container *ngIf="flightsSelected$ | async as flightsSelected">
+  <ng-container *ngIf="!isLoading() && !isAllFlightsVisible()">
+    <button
+      [matMenuTriggerFor]="menu"
+      mat-fab
+      extended
+      color="accent"
+      data-message="Sort flights by"
+      aria-label="Sort flights"
+    >
       <mat-icon>sort</mat-icon>
       {{ currentFilter() }}
     </button>
     <mat-menu #menu="matMenu">
       <button
+        aria-label="Sort by departure airport"
         mat-menu-item
         (click)="selectFilter(filterOptions.DepartureAirport)"
       >
         {{ filterOptions.DepartureAirport }}
       </button>
       <button
+        aria-label="Sort by destination airport"
         mat-menu-item
         (click)="selectFilter(filterOptions.DestinationAirport)"
       >
         {{ filterOptions.DestinationAirport }}
       </button>
-      <button mat-menu-item (click)="selectFilter(filterOptions.Price)">
+      <button
+        aria-label="Sort by price"
+        mat-menu-item
+        (click)="selectFilter(filterOptions.Price)"
+      >
         {{ filterOptions.Price }}
       </button>
     </mat-menu>
-  </ng-container>
 
-  <lib-flights-list [flights]="flightsSelected | customSort: currentFilter()" />
+    <lib-flights-list
+      [flights]="flightsSelected | customSort: currentFilter()"
+    />
+
+    <button
+      mat-mini-fab
+      color="primary"
+      aria-label="Go back to all flights"
+      (click)="onBackClick()"
+    >
+      <mat-icon>arrow_back</mat-icon>
+    </button>
+  </ng-container>
 </ng-container>
 
-<ng-template #allFlights>
-  <ng-container *ngIf="allFlights$ | async as allFlights">
-    <ng-container *ngIf="!isLoading()">
-      <h1 class="title">All flights</h1>
-      <lib-flights-list [flights]="allFlights" />
+<ng-container *ngIf="allFlights$ | async as allFlights">
+  <ng-container *ngIf="!isLoading() && isAllFlightsVisible()">
+    <h1 class="title">All flights</h1>
+    <lib-flights-list [flights]="allFlights" />
 
-      <paginator
-        [length]="allFlightsCount()"
-        [pageIndex]="pageIndex"
-        [pageSize]="pageSize"
-        (pageEvent)="onPageEvent($event)"
-      />
-    </ng-container>
+    <paginator
+      [length]="allFlightsCount()"
+      [pageIndex]="pageIndex"
+      [pageSize]="pageSize"
+      (pageEvent)="onPageEvent($event)"
+    />
   </ng-container>
-</ng-template>
+</ng-container>
