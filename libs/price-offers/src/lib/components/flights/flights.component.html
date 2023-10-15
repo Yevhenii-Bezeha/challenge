@@ -1,0 +1,49 @@
+<div class="spinner">
+  <mat-spinner *ngIf="isLoading()"></mat-spinner>
+</div>
+
+<ng-container
+  *ngIf="flightsSelected$ | async as flightsSelected; else allFlights"
+>
+  <ng-container *ngIf="!isLoading()">
+    <button [matMenuTriggerFor]="menu" mat-fab extended color="accent">
+      <mat-icon>sort</mat-icon>
+      {{ currentFilter() }}
+    </button>
+    <mat-menu #menu="matMenu">
+      <button
+        mat-menu-item
+        (click)="selectFilter(filterOptions.DepartureAirport)"
+      >
+        {{ filterOptions.DepartureAirport }}
+      </button>
+      <button
+        mat-menu-item
+        (click)="selectFilter(filterOptions.DestinationAirport)"
+      >
+        {{ filterOptions.DestinationAirport }}
+      </button>
+      <button mat-menu-item (click)="selectFilter(filterOptions.Price)">
+        {{ filterOptions.Price }}
+      </button>
+    </mat-menu>
+  </ng-container>
+
+  <lib-flights-list [flights]="flightsSelected | customSort: currentFilter()" />
+</ng-container>
+
+<ng-template #allFlights>
+  <ng-container *ngIf="allFlights$ | async as allFlights">
+    <ng-container *ngIf="!isLoading()">
+      <h1 class="title">All flights</h1>
+      <lib-flights-list [flights]="allFlights" />
+
+      <paginator
+        [length]="allFlightsCount()"
+        [pageIndex]="pageIndex"
+        [pageSize]="pageSize"
+        (pageEvent)="onPageEvent($event)"
+      />
+    </ng-container>
+  </ng-container>
+</ng-template>

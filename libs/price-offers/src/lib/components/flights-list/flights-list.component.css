@@ -1,0 +1,39 @@
+.list-subtitle-text {
+   margin-right: 38px;
+}
+
+.price {
+   margin-left: auto;
+}
+
+.title {
+   margin-top: 40px;
+}
+
+mat-card {
+   margin-bottom: 20px;
+}
+
+mat-card:hover {
+   cursor: pointer;
+   background-color: var(--hover-primary-bg-color);
+   border-radius: 6px;
+}
+
+mat-card-title {
+   font-size: 16px;
+}
+
+mat-card-subtitle {
+   font-size: 12px;
+}
+
+@media screen and (min-width: 768px) {
+   mat-card-subtitle {
+      font-size: 14px;
+   }
+
+   mat-card-title {
+      font-size: 20px;
+   }
+}

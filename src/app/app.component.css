@@ -1,0 +1,24 @@
+:host {
+    display: block;
+    height: 100%;
+}
+
+.content-wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    height: 100%;
+}
+
+app-footer {
+    margin-top: auto;
+}
+
+    /* stylelint-disable -- override angular material*/
+::ng-deep .mat-mdc-snack-bar-container .mdc-snackbar__surface {
+    color: var(--primary-text-color) !important;
+    background: var(--error-color) !important;
+}

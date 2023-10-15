@@ -1,0 +1,7802 @@
+[
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 169.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97482-376779"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 209.54,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30251-645400"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-10-25",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 499.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA66946-364103"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 179.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA26317-800502"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 150.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36276-196158"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 408.38,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42188-774633"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-13",
+    "returnDate": "2023-11-14",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 318.59,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60222-974440"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 187.17,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA29158-688147"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-11-01",
+    "returnDate": "2023-11-02",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 206.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21291-526747"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": "1259.31",
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74666-873740"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-11-15",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 156.36,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82915-674547"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 275.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA34991-851925"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 354.38,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42339-616640"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-10",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 305.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA44244-311694"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-02",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 157.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27308-623987"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 262.6,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69377-842591"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 289.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16346-956345"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-11-18",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 373.28,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55776-777899"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 434.96,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA90837-260528"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-11-09",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 184.76,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA12710-881859"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-10",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 269.28,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83970-119719"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-26",
+    "returnDate": "2023-10-27",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 259.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16261-127262"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-12-06",
+    "returnDate": "2023-12-07",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 375.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64945-812802"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-21",
+    "returnDate": "2023-10-22",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 163.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA66726-544533"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 254.85,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17942-393246"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-10",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 430.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68661-215712"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-10-14",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 219.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA26380-826573"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-15",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 269.7,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71348-584320"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 206.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55515-993178"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 402.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95704-180331"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 154.83,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA20342-487033"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 447.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51638-894580"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-11-26",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 351.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69704-466240"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 459.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA14851-203019"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-01",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 214.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA24684-533655"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-06",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 329.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48953-226862"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-23",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 384.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21436-406911"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 407.1,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59960-755517"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-06",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 465.25,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88931-331359"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 166.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60734-293421"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 191.01,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76653-759986"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 443.51,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA35071-761264"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-12",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 477.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17304-391947"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 181.27,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51393-572760"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-12",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 490.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97178-597468"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 342.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60119-664067"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-28",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 221.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70702-577591"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-11",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 216.36,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27534-806902"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 238.7,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA46823-271683"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 328.54,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA43006-454660"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 212.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA38382-811824"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 446.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA74314-406670"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 413.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA23212-810104"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 454.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97226-426332"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 272.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA46529-633986"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 357.98,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA73740-290120"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 319.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95765-869312"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-10-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 396.36,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA63025-847953"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 325.77,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42271-387020"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-20",
+    "returnDate": "2023-11-21",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 431.85,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA26799-190126"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-11-24",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 284.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54926-219651"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 281.65,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA80389-650564"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-12-14",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 382.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA73498-512688"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-06",
+    "returnDate": "2023-12-07",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 399.55,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA67646-170199"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 213.63,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41054-372888"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 281.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA90191-244837"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-12-09",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 165.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA38130-259250"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-11-12",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 318.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95067-175445"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-10-20",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 247.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92195-506925"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-11-25",
+    "returnDate": "2023-11-26",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 175.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42150-730823"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-21",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 191.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17994-260990"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 477.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76936-124044"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 476.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA86575-493190"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-11-09",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 252.4,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA12949-874742"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 443.27,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70693-642023"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 255.37,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78813-843410"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 445.13,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA33681-405349"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-17",
+    "returnDate": "2023-10-23",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 152.62,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA80219-768018"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 258.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56582-568199"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-11-08",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 295.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA29955-101844"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 436.07,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37653-513836"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-11-26",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 429.07,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA44762-943358"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 385.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48619-120550"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-11-03",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 315.36,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA93902-977962"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-15",
+    "returnDate": "2023-10-18",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 224.8,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA93775-725027"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 282.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16249-671919"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 170.72,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA34369-159853"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-10",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 381.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83293-847378"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 171.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88290-928453"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 310.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83053-150108"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 367.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68128-511027"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-23",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 497.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA38066-247022"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 409.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85783-191135"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-10",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 176.54,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40394-615854"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-12-15",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 429.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55209-441259"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 179.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64016-627889"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-06",
+    "returnDate": "2023-10-07",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 324.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48435-812597"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 401.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA61866-144469"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 484.11,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52465-275682"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 269.77,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79140-886345"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 180.97,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95568-730231"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 294.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA80857-584914"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 367.27,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA72913-943247"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 283.03,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA18684-683934"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-28",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 197.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48478-592631"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-21",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 392.25,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31382-358491"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 437.75,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30557-579808"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-06",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 408.55,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA98427-373264"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-21",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 253.11,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42899-180276"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-12-14",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 258.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56967-425258"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 495.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68638-256204"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 220.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78663-843715"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-18",
+    "returnDate": "2023-12-07",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 438.6,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA26577-350155"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-21",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 253.41,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA29340-556921"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 484.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA10109-537468"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-12-12",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 304.08,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37344-629649"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 235.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62885-838853"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-02",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 154.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78710-429882"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 424.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99889-632202"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-20",
+    "returnDate": "2023-10-21",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 363.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65132-975296"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-12-07",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 209.96,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA38082-432071"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 183.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78501-936872"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 266.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA98872-584476"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 282.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15467-715631"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 301.63,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17465-127651"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 442.08,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92805-997765"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 330.79,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30408-911197"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 375.24,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55500-690263"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-28",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 369.2,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88915-112990"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-03",
+    "returnDate": "2023-11-06",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 192.77,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88352-774875"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-10-12",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 299.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA89690-640749"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-18",
+    "returnDate": "2023-10-29",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 408.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40395-957241"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 251,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70421-648902"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 422.67,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA63359-928177"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-10-17",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 327.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56469-943653"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 245.57,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA47686-570261"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-11-21",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 278.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60149-915777"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-11-23",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 369.32,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88674-499556"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 172.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA28950-641817"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 267.6,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97096-333252"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 192.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71582-774550"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 240.96,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68706-571580"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-12-14",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 170.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21737-654505"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 291.54,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85084-994500"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-10-25",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 358.61,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99030-639700"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 455.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA33599-542960"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 214.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77762-498102"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 439.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54884-404977"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 366.65,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79874-382362"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-03",
+    "returnDate": "2023-11-04",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 386.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA18477-773660"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-11-25",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 169.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65151-169401"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-16",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 238.57,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96494-223726"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 474.03,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA87209-449833"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-11-23",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 226.2,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42034-208357"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-11-26",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 423.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85978-755756"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-12-06",
+    "returnDate": "2023-12-07",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 455.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22228-561874"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-11-29",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 220.18,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA94705-575754"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-11-10",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 497.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA94462-168814"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 328.96,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51039-493588"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 196.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83518-687489"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 470.77,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40436-699291"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-11-08",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 214.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15359-786003"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-02",
+    "returnDate": "2023-10-27",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 328.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22547-233033"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-10-15",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 356.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59009-608955"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 272.77,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22097-853787"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-11-25",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 262.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15854-249152"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-22",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 486.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42689-806096"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 428.25,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55058-140774"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-15",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 323.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA58561-974432"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 433.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85753-135019"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 323.1,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA20619-970756"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-31",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 475.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA43874-525833"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-29",
+    "returnDate": "2023-11-30",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 493.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA81212-167050"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 445.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79436-856659"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-10",
+    "returnDate": "2023-10-11",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 180.28,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97575-143386"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 307.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA46148-352912"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-11-13",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 409.6,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60107-545052"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-11-07",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 419.43,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA26192-235136"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-23",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 322.01,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA14572-931030"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 381.58,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22783-268269"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-11-09",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 388.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA44536-329789"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-14",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 322.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78691-309425"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-10-09",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 347.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA43705-448895"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 239.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51901-501279"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 187.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76986-810375"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-12-14",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 431.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71864-484055"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-28",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 310.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA13550-150582"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-20",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 262.96,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA53746-731340"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 481.37,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA53087-894782"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 487.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83332-186550"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 497.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36669-556774"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 416.13,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA61601-665552"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-13",
+    "returnDate": "2023-11-14",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 481.65,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA86689-933315"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-10-14",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 446.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77259-924907"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-12-14",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 173.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60585-872492"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 205.38,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA32818-722612"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 157.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA88775-700616"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 328.38,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77268-962063"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-12",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 210.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA35357-461590"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 356.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA33337-550026"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 358.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA33102-225098"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 355.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41507-439735"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 221.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA81476-740384"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-11-12",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 328.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA72417-992231"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-20",
+    "returnDate": "2023-11-21",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 354.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95083-961733"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-12-23",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 242.28,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA43097-731865"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-07",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 192.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77367-616684"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 210.59,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA12304-523971"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-11-06",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 447.07,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15548-220168"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-20",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 435.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97273-249648"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-26",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 373.62,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA35908-399920"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 411.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78525-186339"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-12-07",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 446.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79697-676520"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 241.17,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40029-510387"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-27",
+    "returnDate": "2023-10-28",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 264.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA80063-900730"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-21",
+    "returnDate": "2023-10-22",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 191.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69940-628460"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-26",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 150.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA24302-285677"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-10-10",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 351.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71776-196538"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 305.42,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56046-311190"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 404.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96168-934252"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-11-29",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 365.97,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA84356-370144"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-01",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 261.01,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA10756-608796"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-11-09",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 220.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA93390-551824"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 409.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA49255-644462"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 384.11,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16671-711102"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-05",
+    "returnDate": "2023-10-06",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 295.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65299-211194"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-10",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 330.99,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA24660-537439"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-23",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 404.42,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54027-442333"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-05",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 294.74,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA61801-936494"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 332.35,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92043-593715"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-02",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 421.8,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21553-817846"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-12-10",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 470.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36775-847142"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 416.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA75356-783550"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-11-05",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 333.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA73113-324736"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 305.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79629-436147"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 482.79,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71752-522820"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-11-29",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 272.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62057-559284"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 451.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95587-919870"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-11-01",
+    "returnDate": "2023-11-02",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 206.79,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69478-370938"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 237.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37987-167885"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-13",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 360.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41436-946469"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 468.08,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA28464-482552"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 491.83,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA75054-608295"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 218.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA98647-848823"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 401.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA63062-823999"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-23",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 383.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31399-711979"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 364.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52359-330080"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-22",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 259.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA39822-358245"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 396.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA32967-652141"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 452.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97000-236212"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-25",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 169.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA49358-879542"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 409.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11558-440614"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-10-19",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 187.54,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA90374-950050"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-11-15",
+    "returnDate": "2023-11-16",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 189.43,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA25501-447436"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-11-02",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 415.42,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52504-170208"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-11-24",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 399.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17871-406357"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 383.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82245-744968"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-27",
+    "returnDate": "2023-10-28",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 336.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA33114-815849"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 315.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65410-383316"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 458.17,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30178-429211"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 355.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79683-418054"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 492.32,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11873-887039"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-23",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 291.58,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62839-502256"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 279.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37089-371151"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 245.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40356-576361"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 411.72,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15937-259738"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-15",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 193.4,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83498-237090"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-03",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 357.91,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA60802-338965"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-11-10",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 157.79,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99098-789714"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 392.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52058-458141"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 496.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA75794-815507"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-12-11",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 436.14,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA44290-380184"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-11",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 374.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA14969-215043"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-11-12",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 461.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA63803-997988"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 373.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11117-342788"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-10-19",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 490.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78566-338362"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-06",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 180.79,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA10399-666984"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-31",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 318.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA19884-471022"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-01",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 190.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31420-575563"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 397.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36116-141052"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 489.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA98529-634673"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-10",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 297.47,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15525-812820"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 198.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA43582-906314"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 449.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85171-302490"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-23",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 243.67,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA47492-254928"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 200.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99884-929798"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-10",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 309.33,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83106-533755"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-12-24",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 324.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11345-274191"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 353.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52156-689443"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-25",
+    "returnDate": "2023-11-26",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 350.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96921-793610"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-10-24",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 335.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78951-700845"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 485.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42441-637336"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 489.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30906-653089"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-11-06",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 156.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68611-255909"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 177.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA19438-857991"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 241.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83860-672947"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 265.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97647-698624"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 265.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41291-833028"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 157.99,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70346-252145"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-12-12",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 397.07,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79399-173220"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 372.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76135-954599"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-10-14",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 196.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97970-884304"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 247.2,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52428-191075"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 495.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27269-361782"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 476.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31449-965807"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-10-09",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 414.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82664-575530"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-03",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 470.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59770-251104"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 307.51,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54740-457377"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-05",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 305.7,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA12440-288552"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-11-24",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 378.83,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA29896-719105"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 271.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55807-293767"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-11-26",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 495.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21616-199260"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-06",
+    "returnDate": "2023-10-07",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 426.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69547-252667"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 157.35,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA75702-458361"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 246.37,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA80805-283096"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 192.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA49840-993979"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 228.16,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82853-280863"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-12-29",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 492.19,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA89891-596739"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 316.76,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA18778-289129"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-15",
+    "returnDate": "2023-11-16",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 299.42,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA32608-469607"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 296.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54375-190880"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-24",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 414.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA73753-866648"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 454.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36454-289607"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 183.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54122-140308"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-21",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 221.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA67092-300886"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 394.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52965-550719"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 179.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA49874-341195"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 159.57,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA98965-301728"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-14",
+    "returnDate": "2023-10-25",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 434.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41904-279746"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 437.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16091-949231"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-02",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 435.8,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52698-774704"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-27",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 282.42,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56032-927234"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 450.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21483-746235"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 320.33,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA34776-812389"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 203.63,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA56752-708181"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-11-23",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 195.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78654-375505"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-07",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 218.44,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA10655-392688"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 185.35,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70669-239240"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 330.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55212-653944"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 455.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA91305-120178"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-11-01",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 210.98,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64567-931395"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-06",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 385.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA50101-206394"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 217.61,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37628-622400"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-27",
+    "returnDate": "2023-12-02",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 165.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51140-658140"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 287.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37199-704934"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-12-04",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 197.08,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA23928-235798"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 272.52,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95419-346239"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 326.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA39950-878482"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 248.18,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71883-892742"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-07",
+    "returnDate": "2023-12-09",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 253.71,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA67447-629466"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 306.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA61204-491011"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-12-07",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 208.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92947-236496"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 366.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA55192-481988"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-10-17",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 227.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA23082-985137"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 456.35,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA25165-303259"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-22",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 377.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37840-136509"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-21",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 351,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95114-876415"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 259.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52512-925769"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 260.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA18323-163645"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-12",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 473.1,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52040-182979"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 285.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30154-458433"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-10-25",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 201.43,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA50269-420438"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-18",
+    "returnDate": "2023-10-26",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 392.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68647-730725"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 274.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31176-426478"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 270.1,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11733-169881"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-05",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 256.27,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21247-349951"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 407.58,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65510-371793"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-11-07",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 462.31,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA39940-904354"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-01",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 344.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77030-533371"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-12-08",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 416.74,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62499-170470"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-17",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 307.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA84685-653465"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-11-14",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 460.69,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA21052-221998"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-12-21",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 498.56,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83894-294900"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-13",
+    "returnDate": "2023-11-14",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 247.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95172-535804"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-24",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 390.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA89437-742268"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 159.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36375-728995"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 210.51,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA81522-968358"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LAX",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 336.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96416-478845"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 378.14,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68044-935794"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 480.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69313-755073"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-01",
+    "returnDate": "2023-11-15",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 401.39,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA51113-614418"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-11-13",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 159.78,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27794-412424"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-10-06",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 466.33,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA83932-246577"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-12-19",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 259.14,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA58128-530056"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-06",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 489.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76940-446235"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-11-07",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 331.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82590-914283"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 448.07,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA84176-281832"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-31",
+    "returnDate": "2023-11-01",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 363.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69290-945287"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-02",
+    "returnDate": "2023-10-28",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 428.3,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA93759-575358"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 361.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA47095-260018"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-11-12",
+    "returnDate": "2023-12-06",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 245.44,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA14479-933988"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 168.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96579-807022"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 276.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA39057-246033"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 469.41,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92820-803813"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 345.34,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27827-193807"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 343.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA91240-917570"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-12-23",
+    "returnDate": "2023-12-24",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 266.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA95957-576971"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-12-12",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 186.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64476-344634"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-12-20",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 150.18,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA49303-212550"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-10-29",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 318.18,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64245-691681"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 491.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54565-827016"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-14",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 403.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64421-218923"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-11-19",
+    "returnDate": "2023-11-20",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 482.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA23120-537510"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LHR",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 456.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99303-924815"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-08",
+    "returnDate": "2023-12-30",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 244.75,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA99100-632392"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-11-05",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 314.83,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA20790-881580"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 225.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA16597-871826"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-23",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 479.75,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36493-765296"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-06",
+    "returnDate": "2023-12-25",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 165.85,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA65063-294169"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-12-07",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 458.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30460-982540"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-11",
+    "returnDate": "2023-11-09",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 485.76,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA69561-231258"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 174.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77234-466394"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-18",
+    "returnDate": "2023-11-19",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 265.22,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA66410-344531"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 283.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA34748-889203"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 324.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA12203-115834"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-30",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 321.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA73510-633298"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 175.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA45398-865641"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-01",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 353.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA66920-217830"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-17",
+    "returnDate": "2023-10-25",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 208.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA96096-237567"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-12-06",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 414.2,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA13265-994879"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 482.44,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31827-662388"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 436.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71955-680991"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-11-29",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 352.51,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59450-880816"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-11",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 418.84,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82793-993728"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-10",
+    "returnDate": "2023-12-11",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 421.8,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA91295-691272"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 242.99,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71639-109980"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-11-10",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 216.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59852-629516"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-14",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 498.55,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA42098-118025"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-12-15",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 476.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA67236-536892"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-11-26",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 174.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA77695-825494"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-12-03",
+    "returnDate": "2023-12-15",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 474.85,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76626-693414"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-11-05",
+    "returnDate": "2023-11-06",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 155.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA97522-995937"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-01",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 393.74,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA44747-981688"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-11-09",
+    "returnDate": "2023-11-10",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 309.49,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41244-331806"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 347.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA63173-570306"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 315.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37494-844885"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-11-28",
+    "returnDate": "2023-11-29",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 471.33,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62910-944099"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-26",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 277.05,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68171-541941"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-11",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 447.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA24961-153213"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-23",
+    "returnDate": "2023-10-24",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 413.63,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41307-344587"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-12-30",
+    "returnDate": "2023-12-31",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 238.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA38051-405795"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-14",
+    "returnDate": "2023-10-22",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 270.43,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA35919-266457"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-11-27",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 222.93,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41567-737890"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-21",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 278.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA27343-344110"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 384.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71900-969228"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-12",
+    "returnDate": "2023-10-17",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 401.66,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA70199-175062"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-12-18",
+    "returnDate": "2023-12-19",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 221,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA67596-318233"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-11-20",
+    "returnDate": "2023-11-21",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 287.86,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA28898-137823"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-12-21",
+    "returnDate": "2023-12-22",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 224.02,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA93522-602243"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-12-26",
+    "returnDate": "2023-12-27",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 197.73,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA64847-622729"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-10-31",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 164.45,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17779-100258"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-05",
+    "returnDate": "2023-11-08",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 494.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA34055-513760"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-28",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 217.29,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA13746-147102"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 347.14,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA62969-816352"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-11-30",
+    "returnDate": "2023-12-01",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 335.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA31392-395219"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-01",
+    "returnDate": "2023-10-21",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 399.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA79821-337779"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-09",
+    "returnDate": "2023-10-12",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 384.28,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76815-902752"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 389.18,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36846-450591"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-04",
+    "returnDate": "2023-12-05",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 191.72,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30679-276059"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-12-25",
+    "returnDate": "2023-12-26",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 303.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA47101-772279"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-02",
+    "returnDate": "2023-11-07",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 258.81,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37999-224358"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-08",
+    "returnDate": "2023-11-09",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 361.37,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA78829-219383"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-29",
+    "returnDate": "2023-11-30",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 400.32,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17720-340699"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-11-23",
+    "returnDate": "2023-12-13",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 254.46,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA68096-320045"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-12-16",
+    "returnDate": "2023-12-17",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 227.48,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA32802-569449"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 381.17,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30776-195194"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-11-16",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 189.09,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22770-251255"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-12",
+    "returnDate": "2023-11-24",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 317.04,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48354-370963"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-11-03",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 282.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA37910-884637"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-11-17",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 188.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA87862-902102"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-12-07",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 344.21,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA13016-848765"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-11-09",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 476.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA40300-531271"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-12-09",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 237.03,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA82777-238209"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-12-17",
+    "returnDate": "2023-12-18",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 238.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA76650-991683"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 252.5,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA87499-386278"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-11-07",
+    "returnDate": "2023-11-16",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 411.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA52415-493573"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-12-08",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 461.83,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA71635-463460"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-22",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 432.24,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59622-716573"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-07",
+    "returnDate": "2023-10-24",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 484.87,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA92105-293185"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-11-02",
+    "returnDate": "2023-11-03",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 283.89,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA46641-171300"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-11-10",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 458.23,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA15564-719792"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-12-28",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 253.14,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59007-108894"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-12-13",
+    "returnDate": "2023-12-21",
+    "seatAvailability": 9,
+    "price": {
+      "amount": 226.82,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41360-966468"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-11-11",
+    "returnDate": "2023-11-12",
+    "seatAvailability": 3,
+    "price": {
+      "amount": 466.33,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA39264-373671"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-04",
+    "returnDate": "2023-11-23",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 251.95,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA72261-459947"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-11-07",
+    "returnDate": "2023-11-08",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 383.15,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA41564-836659"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-12-29",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 212.68,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA66808-975789"
+  },
+  {
+    "origin": "CDG",
+    "destination": "CDG",
+    "departureDate": "2023-11-27",
+    "returnDate": "2023-11-28",
+    "seatAvailability": 10,
+    "price": {
+      "amount": 242.64,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA54706-681136"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-29",
+    "returnDate": "2023-11-09",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 313.92,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA90533-120886"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-11-06",
+    "returnDate": "2023-12-12",
+    "seatAvailability": 4,
+    "price": {
+      "amount": 340.9,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA30766-694161"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-27",
+    "returnDate": "2023-12-28",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 251.44,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA22248-514679"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-13",
+    "returnDate": "2023-11-17",
+    "seatAvailability": 5,
+    "price": {
+      "amount": 273.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59505-974746"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-16",
+    "returnDate": "2023-11-08",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 251.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA48597-671366"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-03",
+    "returnDate": "2023-12-20",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 497.06,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA11243-648003"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-12-22",
+    "returnDate": "2023-12-23",
+    "seatAvailability": 2,
+    "price": {
+      "amount": 272.53,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA85729-764018"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-11-14",
+    "returnDate": "2023-11-25",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 474.94,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA59768-873772"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-12-12",
+    "returnDate": "2023-12-16",
+    "seatAvailability": 1,
+    "price": {
+      "amount": 156.88,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17683-714583"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-26",
+    "returnDate": "2023-12-10",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 214.12,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA53858-686759"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-11-04",
+    "returnDate": "2023-11-05",
+    "seatAvailability": 6,
+    "price": {
+      "amount": 307.24,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA17749-733411"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-26",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 355.17,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA36952-402202"
+  }
+]

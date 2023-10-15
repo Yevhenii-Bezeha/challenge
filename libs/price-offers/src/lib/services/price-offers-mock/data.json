@@ -1,0 +1,6342 @@
+[
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-22",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 147.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 210.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-10-30",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 450.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+
+  {
+    "origin": "JFK",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "JFK",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LHR",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "AMS",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "CDG",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "LAX",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LAX",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "BCN",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "FCO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "SFO",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  },
+  {
+    "origin": "CDG",
+    "destination": "LHR",
+    "departureDate": "2023-10-25",
+    "returnDate": "2023-11-18",
+    "seatAvailability": 8,
+    "price": {
+      "amount": 625.0,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice",
+    "uuid": "SA00042-1a2b3c4d-5e6f-7a8c-9d0e1f2a3b4l"
+  }
+]

@@ -1,0 +1,131 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()">
+  <div class="airport-inputs">
+    <mat-form-field appearance="outline" cy-data="Departure-Form-Input">
+      <mat-label>
+        <mat-icon>flight_takeoff</mat-icon>
+        Departure
+      </mat-label>
+      <input
+        [matAutocomplete]="departuresOptions"
+        type="text"
+        placeholder="Pick one"
+        aria-label="Number"
+        matInput
+        formControlName="departure"
+      />
+      <button
+        *ngIf="form.controls.departure.value"
+        matSuffix
+        mat-icon-button
+        aria-label="Clear"
+        (click)="clearDeparture()"
+      >
+        <mat-icon>close</mat-icon>
+      </button>
+
+      <mat-error *ngIf="form.controls.departure.hasError('required')">
+        Provide departure
+      </mat-error>
+
+      <mat-autocomplete #departuresOptions="matAutocomplete">
+        <mat-option *ngFor="let option of departures$ | async" [value]="option">
+          <mat-icon>flight</mat-icon>
+          {{ option }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" cy-data="Destination-Form-Input">
+      <mat-label>
+        <mat-icon>flight_land</mat-icon>
+        Destination
+      </mat-label>
+      <input
+        [matAutocomplete]="destinationsOptions"
+        type="text"
+        placeholder="Pick one"
+        aria-label="Number"
+        matInput
+        formControlName="destination"
+      />
+      <button
+        *ngIf="form.controls.destination.value"
+        matSuffix
+        mat-icon-button
+        aria-label="Clear"
+        (click)="clearDestination()"
+      >
+        <mat-icon>close</mat-icon>
+      </button>
+
+      <mat-error *ngIf="form.controls.destination.hasError('required')">
+        Provide destination
+      </mat-error>
+
+      <mat-autocomplete #destinationsOptions="matAutocomplete">
+        <mat-option
+          *ngFor="let option of destinations$ | async"
+          [value]="option"
+        >
+          <mat-icon>flight</mat-icon>
+          {{ option }}
+        </mat-option>
+      </mat-autocomplete>
+    </mat-form-field>
+  </div>
+
+  <div class="dates-controls">
+    <mat-form-field appearance="outline" cy-data="DepartureDate-Form-Input">
+      <mat-label>Choose a departure date</mat-label>
+      <input
+        [matDatepickerFilter]="filterDepartureDates"
+        [matDatepicker]="departurePicker"
+        formControlName="departureDate"
+        matInput
+      />
+      <mat-datepicker-toggle
+        [for]="departurePicker"
+        matIconSuffix
+      ></mat-datepicker-toggle>
+      <mat-datepicker #departurePicker touchUi></mat-datepicker>
+
+      <mat-error *ngIf="form.controls.departureDate.hasError('required')">
+        Provide departure date
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" cy-data="DestinationDate-Form-Input">
+      <mat-label>Choose a destination date</mat-label>
+      <input
+        [matDatepickerFilter]="filterDestinationDates"
+        [matDatepicker]="destinationPicker"
+        formControlName="destinationDate"
+        matInput
+      />
+
+      <mat-error *ngIf="form.controls.destinationDate.hasError('invalidDate')">
+        Destination date cannot be earlier than departure date
+      </mat-error>
+
+      <mat-error *ngIf="form.controls.destinationDate.hasError('required')">
+        Provide destination date
+      </mat-error>
+
+      <mat-datepicker-toggle
+        [for]="destinationPicker"
+        matIconSuffix
+      ></mat-datepicker-toggle>
+      <mat-datepicker #destinationPicker touchUi></mat-datepicker>
+    </mat-form-field>
+    <button
+      [disabled]="(submitDisabled$ | async)!!"
+      type="submit"
+      cy-data="Form-Submit-Btn"
+      class="submit-btn"
+      mat-raised-button
+      color="primary"
+    >
+      Submit
+    </button>
+  </div>
+</form>

@@ -1,0 +1,10 @@
+@import url('./../libs/shared/ui/src/lib/styles/main.css');
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

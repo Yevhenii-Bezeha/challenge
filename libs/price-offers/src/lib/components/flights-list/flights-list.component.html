@@ -1,0 +1,49 @@
+<h1 class="title">Choose your departure flight</h1>
+
+<ng-container *ngFor="let flight of flights">
+  <mat-card cy-data="Flight-List-Card">
+    <mat-card-header>
+      <mat-card-subtitle>
+        <span class="list-subtitle-text">
+          {{ flight.origin }}
+        </span>
+        <span>
+          {{ flight.destination }}
+        </span>
+      </mat-card-subtitle>
+      <mat-card-title>08:00 - 09:00</mat-card-title>
+      <div class="price">
+        <mat-card-subtitle>Flight from</mat-card-subtitle>
+        <mat-card-title
+          >{{ flight.price.amount }}
+          {{ flight.price.currency | euroSymbol }}</mat-card-title
+        >
+      </div>
+    </mat-card-header>
+  </mat-card>
+</ng-container>
+
+<h1 class="title">Choose your return flight</h1>
+
+<ng-container *ngFor="let flight of flights">
+  <mat-card cy-data="Flight-List-Card">
+    <mat-card-header>
+      <mat-card-subtitle>
+        <span class="list-subtitle-text">
+          {{ flight.destination }}
+        </span>
+        <span>
+          {{ flight.origin }}
+        </span>
+      </mat-card-subtitle>
+      <mat-card-title>10:00 - 12:00</mat-card-title>
+      <div class="price">
+        <mat-card-subtitle>Flight from</mat-card-subtitle>
+        <mat-card-title
+          >{{ flight.price.amount }}
+          {{ flight.price.currency | euroSymbol }}</mat-card-title
+        >
+      </div>
+    </mat-card-header>
+  </mat-card>
+</ng-container>

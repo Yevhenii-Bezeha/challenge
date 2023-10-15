@@ -1,0 +1,95 @@
+env:
+  nxParams: "--parallel=3 --exclude=simpligov-ui-demo"
+
+# @see https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# @see https://github.blog/changelog/2021-04-20-github-actions-control-permissions-for-github_token/
+# @see https://github.com/nrwl/nx-set-shas#permissions-in-v2
+permissions:
+  contents: "read"
+  actions: "read"
+
+name: build
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  quality_gates:
+    name: Quality gates
+    runs-on: ubuntu-latest
+
+    steps:
+      # @see https://nx.dev/recipes/ci/monorepo-ci-github-actions
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # @see https://github.com/actions/setup-node#caching-global-packages-data
+      - name: Set up Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: "npm"
+
+      # @see https://github.com/nrwl/nx-set-shas
+      - uses: nrwl/nx-set-shas@v3.0.2
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Stylelint
+        run: npm run slint:ci -- $nxParams
+
+      - name: Cache ESLint
+        uses: actions/cache@v3
+        with:
+          path: .cache/eslint
+          key: |
+            eslint-cache-${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('.eslintrc.cjs') }}
+
+      - name: ESLint
+        run: npm run lint:ci -- $nxParams
+
+      # @see https://didikmulyadi.medium.com/reducing-jest-execution-time-ee86e91d7a99
+      - name: Cache jest
+        uses: actions/cache@v3
+        with:
+          path: .cache/jest
+          key: |
+            jest-cache-${{ runner.os }}-${{ env.NODE_VERSION }}-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Run unit-tests
+        run: npm run test:ci -- $nxParams
+
+  builds:
+    name: Builds
+    runs-on: ubuntu-latest
+
+    steps:
+      # @see https://nx.dev/recipes/ci/monorepo-ci-github-actions
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      # @see https://github.com/actions/setup-node#caching-global-packages-data
+      - name: Set up Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: "npm"
+
+      # @see https://github.com/nrwl/nx-set-shas
+      - uses: nrwl/nx-set-shas@v3.0.2
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build apps
+        run: npm run build:prod -- $nxParams
