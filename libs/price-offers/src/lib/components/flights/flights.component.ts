@@ -60,15 +60,7 @@ export class FlightsComponent implements OnInit {
 
     allFlights$!: Observable<IPriceOffers[]>;
 
-    flightsSelected$: Observable<IPriceOffers[]> =
-        this.priceOffersServiceMock.selectedFlightOption$.pipe(
-            tap(() => this.isLoading.set(true)),
-            tap(() => this.isAllFlightsVisible.set(false)),
-            switchMap(selectedFlightOptionData =>
-                this.getSelectedFlights(selectedFlightOptionData)),
-            delay(1000),
-            tap(() => this.isLoading.set(false))
-        );
+    flightsSelected$!: Observable<IPriceOffers[]>;
 
     allFlightsCount: WritableSignal<number> = signal(0);
 
@@ -82,27 +74,8 @@ export class FlightsComponent implements OnInit {
     ) {}
 
     ngOnInit() {
-        this.allFlights$ = this.allFlightsSubject.pipe(
-            switchMap(() =>
-                this.priceOffersServiceMock.loadAll().pipe(
-                    tap(() => this.isLoading.set(true)),
-                    tap(allFlights => this.allFlightsCount.set(allFlights.length)),
-                    map(flights => {
-                        const startIndex = this.pageIndex * this.pageSize;
-                        const endIndex = startIndex + this.pageSize;
-
-                        return flights.slice(startIndex, endIndex);
-                    }),
-                    map(flights => this.getAirportsShortNames(flights)),
-                    delay(1000),
-                    tap(() => this.isLoading.set(false)),
-                    catchError(() => {
-                        this.errorService.setError('Failed to load flights. Try again later');
-
-                        return EMPTY;
-                    })
-                ))
-        );
+        this.allFlights$ = this.setAllFlights();
+        this.flightsSelected$ = this.setSelectedFlight();
     }
 
     onBackClick():void {
@@ -179,5 +152,40 @@ export class FlightsComponent implements OnInit {
             left: 0,
             behavior: 'smooth'
         });
+    }
+
+    private setAllFlights(): Observable<IPriceOffers[]> {
+        return this.allFlightsSubject.pipe(
+            switchMap(() =>
+                this.priceOffersServiceMock.loadAll().pipe(
+                    tap(() => this.isLoading.set(true)),
+                    tap(allFlights => this.allFlightsCount.set(allFlights.length)),
+                    map(flights => {
+                        const startIndex = this.pageIndex * this.pageSize;
+                        const endIndex = startIndex + this.pageSize;
+
+                        return flights.slice(startIndex, endIndex);
+                    }),
+                    map(flights => this.getAirportsShortNames(flights)),
+                    delay(1000),
+                    tap(() => this.isLoading.set(false)),
+                    catchError(() => {
+                        this.errorService.setError('Failed to load flights. Try again later');
+
+                        return EMPTY;
+                    })
+                ))
+        );
+    }
+
+    private setSelectedFlight(): Observable<IPriceOffers[]> {
+        return this.priceOffersServiceMock.selectedFlightOption$.pipe(
+            tap(() => this.isLoading.set(true)),
+            tap(() => this.isAllFlightsVisible.set(false)),
+            switchMap(selectedFlightOptionData =>
+                this.getSelectedFlights(selectedFlightOptionData)),
+            delay(1000),
+            tap(() => this.isLoading.set(false))
+        );
     }
 }

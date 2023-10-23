@@ -64,14 +64,11 @@ type AutocompleteAirportListType = 'departure' | 'destination';
     ]
 })
 export class FlightInfFormComponent implements OnInit {
-    form: FormGroup<IFlightInfForm>;
-    submitDisabled$: Observable<boolean>;
+    form!: FormGroup<IFlightInfForm>;
+    submitDisabled$!: Observable<boolean>;
 
     departures$!: Observable<string[]>;
     destinations$!: Observable<string[]>;
-
-    filteredDepartureDates: Date[] = [];
-    filteredDestinationDates: Date[] = [];
 
     filterDepartureDates: (date: Date | null) => boolean =
         this.isDepartureDateAvailable.bind(this);
@@ -79,52 +76,32 @@ export class FlightInfFormComponent implements OnInit {
     filterDestinationDates: (date: Date | null) => boolean =
         this.isDestinationDateAvailable.bind(this);
 
+    private filteredDepartureDates: Date[] = [];
+    private filteredDestinationDates: Date[] = [];
+
     private destroyRef: DestroyRef = inject(DestroyRef);
     private priceOffersServiceMock: PriceOffersServiceMock = inject(
         PriceOffersServiceMock
     );
 
     private fb: NonNullableFormBuilder = inject(NonNullableFormBuilder);
-    constructor() {
-        this.form = this.fb.group(
-            {
-                departure: this.fb.control('', Validators.required),
-                destination: this.fb.control('', Validators.required),
-                departureDate: this.fb.control<Date | null>(
-                    { value: null, disabled: true },
-                    Validators.required
-                ),
-                destinationDate: this.fb.control<Date | null>(
-                    { value: null, disabled: true },
-                    Validators.required
-                )
-            },
-            { validators: dateValidator }
-        );
-
-        this.submitDisabled$ = this.form.statusChanges.pipe(
-            startWith(this.form.status),
-            map(status => status !== 'VALID')
-        );
-    }
 
     ngOnInit() {
+        this.initForm();
+
+        this.submitDisabled$ = this.isSubmitDisabled();
+
         this.updateControlsDatesValidity();
 
-        this.departures$ = this.createAutocompleteAirportList('departure').pipe(
-            map(airports => airports.filter(airport => airport !== this.form.controls.destination.value))
-        );
+        this.departures$ = this.createAutocompleteAirportList('departure');
 
-        this.destinations$ = this.createAutocompleteAirportList('destination').pipe(
-            map(airports => airports.filter(airport => airport !== this.form.controls.departure.value))
-        );
+        this.destinations$ = this.createAutocompleteAirportList('destination');
 
         this.createAvailableDatesList('departure');
+
         this.createAvailableDatesList('destination');
 
-        this.form.controls.departureDate.valueChanges.pipe(takeUntilDestroyed(this.destroyRef)).subscribe(() => {
-            this.form.controls.destinationDate.patchValue(null);
-        });
+        this.handleDepartureDateChange();
     }
 
     clearDeparture(): void {
@@ -181,7 +158,8 @@ export class FlightInfFormComponent implements OnInit {
                     inputValue ?? '',
                     airports ?? [],
                     this.form.controls[type].value
-                ))
+                )),
+            map(airports => airports.filter(airport => airport !== this.form.controls[type].value))
         );
     }
 
@@ -229,5 +207,36 @@ export class FlightInfFormComponent implements OnInit {
             destinationDateControl.disable();
             destinationDateControl.setValue(null);
         }
+    }
+
+    private initForm(): void {
+        this.form = this.fb.group(
+            {
+                departure: this.fb.control('', Validators.required),
+                destination: this.fb.control('', Validators.required),
+                departureDate: this.fb.control<Date | null>(
+                    { value: null, disabled: true },
+                    Validators.required
+                ),
+                destinationDate: this.fb.control<Date | null>(
+                    { value: null, disabled: true },
+                    Validators.required
+                )
+            },
+            { validators: dateValidator }
+        );
+    }
+
+    private isSubmitDisabled(): Observable<boolean> {
+        return this.form.statusChanges.pipe(
+            startWith(this.form.status),
+            map(status => status !== 'VALID')
+        );
+    }
+
+    private handleDepartureDateChange(): void {
+        this.form.controls.departureDate.valueChanges.pipe(takeUntilDestroyed(this.destroyRef)).subscribe(() => {
+            this.form.controls.destinationDate.patchValue(null);
+        });
     }
 }
